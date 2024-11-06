@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Open Source Software Security.
+- 🌱 Currently learning ML, DS, AI to cater security requirements in OSS.
+- 📫 How to reach me: https://mastodon.social/@slimmilan
 <!--
 **slimmilan/slimmilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
